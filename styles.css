@@ -3,7 +3,7 @@ color: teal;
 
 }
 
-container{
+.container{
 background-color: green;
 
 
@@ -14,7 +14,7 @@ background-color: blue;
 
 
 }
-navbar{
+.navbar{
 display:inline;
 
 }
