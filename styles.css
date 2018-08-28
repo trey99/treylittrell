@@ -2,3 +2,19 @@ h1 {
 color: teal;
 
 }
+
+container{
+background-color: green;
+
+
+
+}
+body{
+background-color: blue;
+
+
+}
+navbar{
+display:inline;
+
+}
