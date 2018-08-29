@@ -21,14 +21,10 @@ display:inline;
 .login {
 color: white;
 float: right;
-}
-.login a {
 position:relative;
  cursor: pointer;
  margin-right: 30px;
  padding: 8px 18px;
  border: 1px solid #204156;
-}
-.login a:active {
-top:5px;
+top: 5px;
 }
