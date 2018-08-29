@@ -3,7 +3,7 @@ color: green;
 
 }
 
-.container{
+.container {
 background-color: teal;
 
 
@@ -22,7 +22,7 @@ display:inline;
 color: white;
 float: right;
 }
-.login a:active {
+.login a {
 top: 5px;
 cursor: pointer;
 margin-right: 30px;
