@@ -19,15 +19,17 @@ body {
 }
 .navbar {
   display: flex;
-  background-image;
+  background-image: url("https://images.pexels.com/photos/533877/pexels-photo-533877.jpeg?auto=compress&cs=tinysrgb&h=350");
+  background-size: cover;
 }
+
 .login {
   color: white;
   float: right;
   margin-right: 30px;
   padding: 8px 18px;
-  border: 1px solid #204156;
-
+  border: 5px solid #204156;
+  border-color: lightblue;
 }
 .login:hover {
   cursor: pointer;
@@ -44,5 +46,6 @@ body {
   color: gold;
 
 }
-
+.img img {
+  background-size: cover;
 }
