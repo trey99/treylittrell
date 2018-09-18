@@ -14,7 +14,7 @@ h4 {
 }
 body {
   background-color: blue;
-  background-image: url("https://img.etsystatic.com/il/2f7adf/1039629766/il_340x270.1039629766_hld8.jpg?version=1");
+  background-image: url("./img/pink flower.jpg");
 
 
 }
@@ -49,4 +49,10 @@ body {
 }
 .img img {
   background-size: cover;
+  height: 500px;
+  width: 500px;
+  border: 9px solid lightpink;
+}
+footer {
+  color: white;
 }

@@ -14,7 +14,7 @@ h4 {
 }
 body {
   background-color: lightgreen;
-  background-image: url("C:\Users\Garey.Littrell\Documents\GitHub\treylittrell\img\blue whales.jpg");
+  background-image: url("./img/blue whales.jpg");
 
 
 }
@@ -47,6 +47,11 @@ body {
   color: gold;
 
 }
+.img {
+  border: 9px;
+}
 .img img {
   background-size: cover;
+  border: 9px solid lightblue;
+
 }
