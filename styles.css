@@ -49,3 +49,8 @@ body {
 .img img {
   background-size: cover;
 }
+.main img {
+  height: 500px;
+  width:  500px;
+  border: 9px solid blue;
+}
